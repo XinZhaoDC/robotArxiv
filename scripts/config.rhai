@@ -26,7 +26,9 @@ let conferences = [
     // System
     "FSE/ESEC", "ICSE", "ISSTA", "OSDI", "SOSP",
     // Security
-    "ACSA", "AsiaCCS", "CCS", "DSN", "ESORICS", "EuroS&P", "ICICS", "NDSS", "RAID", "SP", "USENIX Security"
+    "ACSA", "AsiaCCS", "CCS", "DSN", "ESORICS", "EuroS&P", "ICICS", "NDSS", "RAID", "SP", "USENIX Security",
+    // Robot journal
+    "TRO", "RAL"
 ];
 
 let start = conferences.shift();
