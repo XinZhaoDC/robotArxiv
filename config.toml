@@ -2,35 +2,6 @@ site_title = "robotArxiv"
 limit_days = 30
 cache_url = "https://XinZhaoDC.github.io/robotArxiv/cache.json"
 
-[[sources]]
-limit = 300
-category = "cs.RO"
-title = "Robotics"
-
-[[sources]]
-limit = 300
-category = "cs.SY"
-title = "Systems and Control"
-
-[[sources]]
-limit = 300
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
-
-[[sources]]
-limit = 300
-category = "cs.AI"
-title = "Artificial Intelligence"
-
-[[sources]]
-limit = 300
-category = "cs.LG"
-title = "Machine Learning"
-
-[[sources]]
-limit = 300
-category = "cs.GR"
-title = "Graphics"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
