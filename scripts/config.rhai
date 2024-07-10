@@ -4,9 +4,15 @@ let titles_method = ["Certifiable", "Self-Supervised", "Semi-Supervised", "Unsup
 "localization", "dynamic", "sparsification", "graph", "clique", "HD map", "reconstruction", "robot", "nerf", "Guassian", "road", "robust", "city", "simulation", "simulator", "dataset", "Deformable", "closed-form", 
 "geometric", "benchmark", "evaluation", "prediction", "multi-view", "grasp", "field", "point cloud", "lidar", "trajectory", "trajectories", "cluster"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Shaojie Shen", "Luca Carlone", "Yoshua Bengio", "Frank Dellaert", "Wolfram Burgard", "Davide Scaramuzza", "Marc Pollefeys", "Andrew Davison", "Daniel Cremers", "Heng Yang", "Fei Gao", 
-"Tong Qin", "Wenchao Ding", "Fu Zhang", "Hesheng Wang", "Huan Yin", "Peng Yin", "Ming Liu", "Yue Wang", "Hang Zhao", "Xieyuanli Chen", "Boyu Zhou", "Timothy D. Barfoot", "Marc Pollefeys", "Kasra Khosoussi",
-"Fang Bai", "kaiming he", "Kevin Doherty", "shoudong huang", "Guoquan Huang", "Yue Pan", "Timothy D. Barfoot", "Jonathan P. How", "Guofeng Zhang", "Cyrill Stachniss", "Lihua Xie", "Shenghai Yuan"];
+let authors_array = [
+//Robotics
+"Wolfram Burgard", "Andrew Davison", "Daniel Cremers", "Michael Kaess", "Luca Carlone", "Davide Scaramuzza", "Cyrill Stachniss", "Marc Pollefeys", "Roland Siegwart", "Jonathan P. How", "Frank Dellaert", "Timothy D. Barfoot", "Kasra Khosoussi", 
+"Shaojie Shen", "Yue Wang", "Fei Gao", "Fu Zhang", "Hesheng Wang", "Lihua Xie", "Fu Zhang", "Hesheng Wang", "shoudong huang", "Guoquan Huang", "Guofeng Zhang", "Tong Qin", "Heng Yang", "Wenchao Ding", "Shenghai Yuan", "Huan Yin", "Xieyuanli Chen", "Boyu Zhou",
+"Kevin Doherty", "Yue Pan",
+//INS
+"Naser El-Sheimy", "Xiaoji Niu",
+//CV&AI
+"Yoshua Bengio", "kaiming he", "Hang Zhao"];
 
 let conferences = [
     // AI
