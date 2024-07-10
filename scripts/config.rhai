@@ -6,13 +6,17 @@ let titles_method = ["Certifiable", "Self-Supervised", "Semi-Supervised", "Unsup
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = [
 //Robotics
-"Wolfram Burgard", "Andrew Davison", "Daniel Cremers", "Michael Kaess", "Luca Carlone", "Davide Scaramuzza", "Cyrill Stachniss", "Marc Pollefeys", "Roland Siegwart", "Jonathan P. How", "Frank Dellaert", "Timothy D. Barfoot", "Kasra Khosoussi", 
-"Shaojie Shen", "Yue Wang", "Fei Gao", "Fu Zhang", "Hesheng Wang", "Lihua Xie", "Fu Zhang", "Hesheng Wang", "shoudong huang", "Guoquan Huang", "Guofeng Zhang", "Tong Qin", "Heng Yang", "Wenchao Ding", "Shenghai Yuan", "Huan Yin", "Xieyuanli Chen", "Boyu Zhou",
-"Kevin Doherty", "Yue Pan",
+"Wolfram Burgard", "Andrew Davison", "Daniel Cremers", "Michael Kaess", "Luca Carlone", "Davide Scaramuzza", "Cyrill Stachniss", "Marc Pollefeys", "Roland Siegwart", "Sebastian Scherer", "Jonathan P. How", "Frank Dellaert", 
+"Timothy D. Barfoot", "Kasra Khosoussi", "Nicholas Roy", "Yuke Zhu", "Shaojie Shen", "Yue Wang", "Fei Gao", "Fu Zhang", "Hesheng Wang", "Lihua Xie", "Fu Zhang", "Ji Zhang", "Yong Liu", "Brendan Englot", "Hesheng Wang", 
+"shoudong huang", "Guoquan Huang", "Guofeng Zhang", "Lin Zhang", "Tin Lun LAM", "Danping Zou", "Tong Qin", "Heng Yang", "Wenchao Ding", "Shenghai Yuan", "Ayoung Kim", "Huan Yin", "Xieyuanli Chen", "Ling Pei", "Peng Yin", 
+"Boyu Zhou", "Jiarong lin", "Kevin Doherty", "Yue Pan", "Hermann Blum", "Tixiao Shan", "Turcan Tuna", 
 //INS
-"Naser El-Sheimy", "Xiaoji Niu",
+"Naser El-Sheimy", "Xiaoji Niu", "Jianhao JIAO",
 //CV&AI
-"Yoshua Bengio", "kaiming he", "Hang Zhao"];
+"Yoshua Bengio", "kaiming he", "Yuan Liu", "Hang Zhao", 
+//Other
+"Bisheng Yang", "Cheng Wang", "George Vosselman", "Yu-Shen Liu", "Jonathan Li"
+];
 
 let conferences = [
     // AI
