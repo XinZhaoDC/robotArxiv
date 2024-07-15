@@ -1,5 +1,5 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
-let titles_model = ["SLAM", "Odometry", "Registration", "Exploration", "Long-term", "mapping", "Multi-session", "Planning", "Optimization", "Estimation", "Control", "Swarm", "Detection", "Segmentation", "Life", "estimator"];
+let titles_model = ["SLAM", "Odometry", "Registration", "Exploration", "Long-term", "mapping", "Multi-session", "Planning", "Optimization", "Estimation", "Control", "Swarm", "Detection", "Segmentation", "Life", "estimator", "Multi", "Distributed", "Decentralized", "Centralized","Collaborative"];
 let titles_method = ["Certifiable", "Self-Supervised", "Semi-Supervised", "Unsupervised", "Fusion", "Navigation", "Detect", "Decision", "Calibration", "Reinforcement", "Relocalization", "loop", "global", "outlier", 
 "localization", "dynamic", "sparsification", "graph", "clique", "HD map", "reconstruction", "robot", "nerf", "Guassian", "road", "robust", "city", "simulation", "simulator", "dataset", "Deformable", "closed-form", 
 "geometric", "benchmark", "evaluation", "prediction", "multi-view", "grasp", "field", "point cloud", "lidar", "trajectory", "trajectories", "cluster"];
