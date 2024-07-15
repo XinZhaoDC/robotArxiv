@@ -7,7 +7,7 @@ let titles =  titles_model + titles_method + titles_type;
 let authors_array = [
 //Robotics
 "Wolfram Burgard", "Andrew Davison", "Daniel Cremers", "Michael Kaess", "Luca Carlone", "Davide Scaramuzza", "Cyrill Stachniss", "Marc Pollefeys", "Roland Siegwart", "Sebastian Scherer", "Jonathan P. How", "Frank Dellaert", 
-"Timothy D. Barfoot", "Kasra Khosoussi", "Nicholas Roy", "Yuke Zhu", "Shaojie Shen", "Yue Wang", "Fei Gao", "Fu Zhang", "Hesheng Wang", "Lihua Xie", "Fu Zhang", "Ji Zhang", "Yong Liu", "Brendan Englot", "Hesheng Wang", 
+"Timothy D. Barfoot", "Kasra Khosoussi", "Nicholas Roy", "Yuke Zhu", "Shaojie Shen", "Ming Liu","Yue Wang", "Fei Gao", "Fu Zhang", "Hesheng Wang", "Lihua Xie", "Fu Zhang", "Ji Zhang", "Yong Liu", "Brendan Englot", "Hesheng Wang", 
 "shoudong huang", "Guoquan Huang", "Guofeng Zhang", "Lin Zhang", "Tin Lun LAM", "Danping Zou", "Tong Qin", "Heng Yang", "Wenchao Ding", "Shenghai Yuan", "Ayoung Kim", "Huan Yin", "Xieyuanli Chen", "Ling Pei", "Peng Yin", 
 "Boyu Zhou", "Jiarong lin", "Kevin Doherty", "Yue Pan", "Hermann Blum", "Tixiao Shan", "Turcan Tuna", 
 //INS
