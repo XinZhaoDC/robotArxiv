@@ -6,14 +6,15 @@ let titles_method = ["Certifiable", "Self-Supervised", "Semi-Supervised", "Unsup
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = [
 //Robotics
-"Wolfram Burgard", "Andrew Davison", "Daniel Cremers", "Michael Kaess", "Luca Carlone", "Davide Scaramuzza", "Cyrill Stachniss", "Marc Pollefeys", "Roland Siegwart", "Sebastian Scherer", "Jonathan P. How", "Frank Dellaert", 
-"Timothy D. Barfoot", "Kasra Khosoussi", "Nicholas Roy", "Margarita Chli", "Yuke Zhu", "Shaojie Shen", "Ming Liu","Yue Wang", "Fei Gao", "Fu Zhang", "Hesheng Wang", "Lihua Xie", "Fu Zhang", "Ji Zhang", "Yong Liu", "Brendan Englot", "Hesheng Wang", 
-"shoudong huang", "Guoquan Huang", "Guofeng Zhang", "Lin Zhang", "Tin Lun LAM", "Danping Zou", "Tong Qin", "Heng Yang", "Wenchao Ding", "Shenghai Yuan", "Ayoung Kim", "Huan Yin", "Xieyuanli Chen", "Ling Pei", "Peng Yin", 
-"Boyu Zhou", "Jiarong lin", "Kevin Doherty", "Yue Pan", "Hermann Blum", "Tixiao Shan", "Turcan Tuna", 
+"Wolfram Burgard", "Andrew Davison", "Pieter Abbeel", "Daniel Cremers", "Sebastian Thrun", "Michael Kaess", "Ian D Reid", "Johannes L. Schönberger", "Luca Carlone", "Davide Scaramuzza", "Cyrill Stachniss", "Dieter Fox", "Marc Pollefeys", "Roland Siegwart", "Michael Milford", "Hugh Durrant-Whyte",
+"Vijay Kumar", "J.M. Martínez Montiel", "Sebastian Scherer", "RaúlMurArtal", "Jonathan P. How", "Frank Dellaert", "Timothy D. Barfoot", "Nicholas Roy", "lan Reid", "Cesar Cadena", "Margarita Chli", "Nikolay Atanasov", "John Leonard", "Stergios I. Roumeliotis", "Patricio Vela", "Maurice Fallon", 
+"David Murray", "Jakob Engel", "Jörg Stückler", "Niko Suenderhauf", "Yasir Latif", "Yuke Zhu", "Shaojie Shen", "Ming Liu","Yue Wang", "Fei Gao", "Fu Zhang", "Hesheng Wang", "Lihua Xie", "Fu Zhang", "Ji Zhang", "Yong Liu", "Hesheng Wang", "shoudong huang", "Guoquan Huang", "Brendan Englot", 
+"Guofeng Zhang", "Lin Zhang", "Tin Lun LAM", "Danping Zou", "Tong Qin", "Heng Yang", "Danping Zou", "Ken Sakurada", "Shuji Oishi", "Pyojin Kim", "Yunhui Liu", "Zichao Zhang", "Wenchao Ding", "Shenghai Yuan", "Ayoung Kim", "Huan Yin", "Xieyuanli Chen", "Ling Pei", "Peng Yin", "Boyu Zhou", 
+"Jiarong lin", "Kevin Doherty", "Yue Pan", "Hermann Blum", "Tixiao Shan", "Turcan Tuna", "Xingxing Zuo", "Kasra Khosoussi", "Shuhui Bu", "Sören Schwertfeger", "Laurent Kneip", "Ryan M. Eustice", "Han Wang", 
 //INS
 "Naser El-Sheimy", "Xiaoji Niu", "Jianhao JIAO",
 //CV&AI
-"Yoshua Bengio", "kaiming he", "Yuan Liu", "Hang Zhao", 
+"Luc Van Gool", "Andrew Zisserman", "Jakob Engel", "Yoshua Bengio", "kaiming he", "Yuan Liu", "Hang Zhao", 
 //Other
 "Bisheng Yang", "Cheng Wang", "George Vosselman", "Yu-Shen Liu", "Jonathan Li"
 ];
