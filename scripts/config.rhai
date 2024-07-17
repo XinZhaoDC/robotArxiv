@@ -10,7 +10,7 @@ let authors_array = [
 "Vijay Kumar", "J.M. Martínez Montiel", "Sebastian Scherer", "RaúlMurArtal", "Jonathan P. How", "Frank Dellaert", "Timothy D. Barfoot", "Nicholas Roy", "lan Reid", "Cesar Cadena", "Margarita Chli", "Nikolay Atanasov", "John Leonard", "Stergios I. Roumeliotis", "Patricio Vela", "Maurice Fallon", 
 "David Murray", "Jakob Engel", "Jörg Stückler", "Niko Suenderhauf", "Yasir Latif", "Yuke Zhu", "Shaojie Shen", "Ming Liu","Yue Wang", "Fei Gao", "Fu Zhang", "Hesheng Wang", "Lihua Xie", "Fu Zhang", "Ji Zhang", "Yong Liu", "Hesheng Wang", "shoudong huang", "Guoquan Huang", "Brendan Englot", 
 "Guofeng Zhang", "Lin Zhang", "Tin Lun LAM", "Danping Zou", "Tong Qin", "Heng Yang", "Danping Zou", "Ken Sakurada", "Shuji Oishi", "Pyojin Kim", "Yunhui Liu", "Zichao Zhang", "Wenchao Ding", "Shenghai Yuan", "Ayoung Kim", "Huan Yin", "Xieyuanli Chen", "Ling Pei", "Peng Yin", "Boyu Zhou", 
-"Jiarong lin", "Kevin Doherty", "Yue Pan", "Hermann Blum", "Tixiao Shan", "Turcan Tuna", "Xingxing Zuo", "Kasra Khosoussi", "Shuhui Bu", "Sören Schwertfeger", "Laurent Kneip", "Ryan M. Eustice", "Han Wang", 
+"Jiarong lin", "Kevin Doherty", "Yue Pan", "Hermann Blum", "Tixiao Shan", "Turcan Tuna", "Xingxing Zuo", "Kasra Khosoussi", "Shuhui Bu", "Sören Schwertfeger", "Laurent Kneip", "Ryan M. Eustice", "Han Wang", "Dinesh Atchuthan", "Joan Solà",
 //INS
 "Naser El-Sheimy", "Xiaoji Niu", "Jianhao JIAO",
 //CV&AI
