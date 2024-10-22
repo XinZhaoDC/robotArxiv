@@ -1,14 +1,14 @@
 site_title = "robotArxiv"
-limit_days = 14
+limit_days = 5
 cache_url = "https://XinZhaoDC.github.io/robotArxiv/cache.json"
 
 [[sources]]
-limit = 300
+limit = 100
 category = "cs.RO"
 title = "Robotics"
 
 [[sources]]
-limit = 300
+limit = 100
 category = "cs.SY"
 title = "Systems and Control"
 
@@ -28,7 +28,7 @@ category = "cs.LG"
 title = "Machine Learning"
 
 [[sources]]
-limit = 300
+limit = 100
 category = "cs.GR"
 title = "Graphics"
 
