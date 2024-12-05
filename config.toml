@@ -13,6 +13,16 @@ category = "cs.SY"
 title = "Systems and Control"
 
 [[sources]]
+limit = 100
+category = "cs.CG"
+title = "Computational Geometry"
+
+[[sources]]
+limit = 100
+category = "math.OC"
+title = "Optimization and Control"
+
+[[sources]]
 limit = 300
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
